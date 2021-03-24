@@ -35,7 +35,7 @@ visitor count type 2
 
 
 <!-- title -->
-<h1 align="center">Hi 👋, I'm Sanskar!</h1>
+<h1 align="center">Hi 👋 I'm Sanskar!</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 
@@ -58,13 +58,14 @@ visitor count type 2
 -->
 
 
-- 🔭 I’m currently working at [Unacademy](https://unacademy.com/@SanskarOmar_) as a doubt solving Educator.
+- 🔭 I’m currently working at [Unacademy](https://unacademy.com/) as a doubt solving Educator.
 
-- 🌱 I’m currently learning **4**
+- 🌱 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
 
 - 👯 I’m looking to collaborate on []()
-
+<!--
 - 🤝 I’m looking for help with [3](a3)
+ -->
 <!--
 - 👨‍💻 All of my projects are available at [7](7)
 
@@ -83,7 +84,7 @@ visitor count type 2
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanskaromar_" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/sanskaromar-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sanskaromar-/" height="30" width="40" /></a> <a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanskar.omar.7" height="30" width="40" /></a><a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanskar_omar" height="30" width="40" /></a><a href="https://www.codechef.com/users/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_omar" height="30" width="40" /></a> <a href="https://www.hackerrank.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanskar_omar" height="30" width="40" /></a> <a href="https://codeforces.com/profile/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanskar_omar" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanskaromar_" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/sanskaromar-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sanskaromar-/" height="30" width="40" /></a> <a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanskar.omar.7" height="30" width="40" /></a><a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanskar_omar" height="30" width="40" /></a><a href="https://www.codechef.com/users/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_omar" height="30" width="40" /></a><!--<a href="https://www.hackerrank.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanskar_omar" height="30" width="40" /></a>--> <a href="https://codeforces.com/profile/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanskar_omar" height="30" width="40" /></a>
 </p>
 
 
