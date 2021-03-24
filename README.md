@@ -39,8 +39,14 @@ visitor count type 2
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<!-- view counter type 3 -->
+<!-- view counter type 3 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaromar" /> </p>
+-->
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> </p>
+
 
 
 <!-- github trophies -->
