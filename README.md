@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Your visitor Count:
+<!-- Your visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{sanskaromar}/count.svg)
+-->
 
-![](https://komarev.com/ghpvc/?username=sanskaromar&color=dc143c&label=Profile+Views&style=flat)
+![](https://komarev.com/ghpvc/?username=sanskaromar&color=00FF00&label=Profile+Views&style=flat)
