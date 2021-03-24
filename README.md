@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/{sanskaromar}/count.svg)
 -->
 
-![](https://komarev.com/ghpvc/?username=sanskaromar&color=00FF00&label=Profile+Views&style=flat)
+![](https://komarev.com/ghpvc/?username=sanskaromar&color=00EE00&label=Profile+Views&style=flat)
