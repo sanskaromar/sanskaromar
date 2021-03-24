@@ -49,9 +49,9 @@ visitor count type 2
 
 
 
-<!-- github trophies -->
+<!-- github trophies 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskaromar" alt="sanskaromar" /></a> </p>
-
+-->
 
 <!-- twitter link -->
 <p align="right"> <a href="https://twitter.com/sanskaromar_" target="blank"><img src="https://img.shields.io/twitter/follow/sanskaromar_?logo=twitter&style=for-the-badge" alt="sanskaromar_" /></a> </p>
