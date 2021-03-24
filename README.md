@@ -45,7 +45,7 @@ visitor count type 2
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> </p>
 
 
 
@@ -54,7 +54,7 @@ visitor count type 2
 
 
 <!-- twitter link -->
-<p align="left"> <a href="https://twitter.com/sanskaromar_" target="blank"><img src="https://img.shields.io/twitter/follow/sanskaromar_?logo=twitter&style=for-the-badge" alt="sanskaromar_" /></a> </p>
+<p align="right"> <a href="https://twitter.com/sanskaromar_" target="blank"><img src="https://img.shields.io/twitter/follow/sanskaromar_?logo=twitter&style=for-the-badge" alt="sanskaromar_" /></a> </p>
 
 - 🔭 I’m currently working on [1](a1)
 
