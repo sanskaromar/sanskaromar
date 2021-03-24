@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 Your visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{sanskaromar}/count.svg)
+
+![](https://komarev.com/ghpvc/?username=sanskaromar&color=dc143c&label=Profile+Views&style=flat)
