@@ -124,4 +124,4 @@ Ps. Here's a quote for you.
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in)
 -->
 
-<p><img align="right" src="https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in&layout=samuel&theme=nightowl" alt="quote" /></p>
+<p><img align="right" src="https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in&layout=samuel&theme=dark" alt="quote" /></p>
