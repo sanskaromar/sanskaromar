@@ -129,4 +129,4 @@ Ps. Did you know this? ⬇️
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in)
 -->
 
-<p><img align="right" src="https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in&layout=samuel&theme=dark" alt="quote" /></p>
+<p><img align="right" src="https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in&layout=samuel&theme=dark" alt="A quote should be here but as you can see it could not be loaded due to some issues. Try reloading the page." /></p>
