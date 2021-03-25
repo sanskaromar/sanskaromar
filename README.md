@@ -36,7 +36,7 @@ visitor count type 2
 
 <!-- title -->
 <h1 align="center">Hi 👋 I'm Sanskar!</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate student developer from India</h3>
 
 
 <!-- view counter type 3 
@@ -58,26 +58,26 @@ visitor count type 2
 -->
 
 
-- 🔭 I’m currently working at [Unacademy](https://unacademy.com/) as a doubt solving Educator.
+- 🏢 I’m currently working at [Unacademy](https://unacademy.com/) as a doubt solving Educator.
 
-- 🌱 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
-
-- 👯 I’m looking to collaborate on []()
+- 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
 <!--
+- 👯 I’m looking to collaborate on []()
+
 - 🤝 I’m looking for help with [3](a3)
  -->
 <!--
 - 👨‍💻 All of my projects are available at [7](7)
 
 - 📝 I regularly write articles on [8](8)
--->
-- 💬 Ask me about **5**
 
-- 📫 Reach out to me at **heysanskar0.0@gmail.com**
+- 💬 Ask me about **5**
+-->
+- ✉️ Reach out to me at **heysanskar0.0@gmail.com**
 <!--
 - 📄 Know about my experiences [9](9)
 -->
-- ⚡ Fun fact **10**
+- 😁 Fun fact **I love Anime and 🐱**
 
 
 
@@ -117,8 +117,9 @@ theme 2: black
 [![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs&show_icons=true&title_color=6655CF1&text_color=45A29E&icon_color=665CF1&bg_color=45,0B0C10,1F2833)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-#####What keeps me motivated:
-I'm just a beginner here exploring various technologies i can use and getting started with open source. Currently i am focusing on Competivie Programming with C++ and django for developement. Here's a quote for you.
+##### What am i working on:
+I'm just a beginner here exploring various technologies and getting started with open source. Currently i am focusing on Competivie Programming with C++ and django for developement.<br>
+Ps. Here's a quote for you.
 <!-- quote placing by markdown 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in)
 -->
