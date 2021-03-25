@@ -106,6 +106,6 @@ visitor count type 2
 
 
 
-<!-- format for custum paameter with theme "forest' 
-[![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs&show_icons=true&title_color=05386B&text_color=379683&icon_color=05386B&bg_color=5CDB95)](https://github.com/anuraghazra/github-readme-stats)
+<!-- format for custum paameter with gradiant
+[![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs&show_icons=true&title_color=FFFFFF&text_color=DDDDDD&icon_color=DDDD00&bg_color=45,6F2232,950740,C3073F)](https://github.com/anuraghazra/github-readme-stats)
 -->
