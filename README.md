@@ -117,11 +117,11 @@ theme 2: black
 [![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs&show_icons=true&title_color=6655CF1&text_color=45A29E&icon_color=665CF1&bg_color=45,0B0C10,1F2833)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-##### What am i working on:
+#### What am i working on:
 I'm just a beginner here exploring various technologies and getting started with open source. Currently i am focusing on Competivie Programming with C++ and django for developement.<br>
 Ps. Here's a quote for you.
 <!-- quote placing by markdown 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in)
 -->
 
-<p><img align="right" src="https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in&layout=samuel&theme=dark" alt="quote" /></p>
+<p><img align="center" src="https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in&layout=samuel&theme=dark" alt="quote" /></p>
