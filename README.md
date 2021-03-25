@@ -119,7 +119,7 @@ theme 2: black
 
 #### What am i working on:
 I'm just a beginner here exploring various technologies and getting started with open source. Currently i am focusing on Competivie Programming with C++ and django for developement.<br>
-Ps. Here's a quote for you.
+Ps. Did you know this? ⬇️
 <!-- quote placing by markdown 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in)
 -->
