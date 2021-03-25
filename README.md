@@ -99,10 +99,10 @@ visitor count type 2
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskaromar&show_icons=true&locale=en&layout=compact" alt="sanskaromar" /></p>
 
-[![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskaromar&show_icons=true&locale=en" alt="sanskaromar" /></p>
---><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaromar&" alt="sanskaromar" /></p>
+--><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaromar" alt="sanskaromar" /></p>
 
 
 
