@@ -59,8 +59,10 @@ visitor count type 2
 
 
 - 🏢 I’m currently working at [Unacademy](https://unacademy.com/) as a doubt solving Educator.
+- 🏢 i'm also a content creator [Doubtnut](https://www.doubtnut.com).
 
 - 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
+- 🧑‍🎓 i'm also a part of web team of Entrepreneur Cell of my college.
 <!--
 - 👯 I’m looking to collaborate on []()
 
