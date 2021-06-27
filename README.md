@@ -4,13 +4,15 @@
 <h3 align="center">A passionate student developer from India</h3>
 
 <!-- typing svg -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&height=69&font=Comfortaa&color=20C20E&lines=Namaste+🙏;Check+out+my+Pinned+Repositories;Connect+with+me+for+Collaboration;Ask+me+about+anything,+I+am+happy+to+help;I+believe+in+cat+supremacy;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&height=69&font=Comfortaa&color=20C20E&lines=Namaste+🙏;Check+out+my+Pinned+Repositories;Connect+with+me+for+Collaboration;Ask+me+about+anything,+I+am+happy+to+help;I+believe+in+cat+supremacy+:);)
 
 <!-- visitor count 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> </p>
 -->
 <!-- intro/ about -->
 - 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
+<img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100px" />
+
 - 🧑‍🎓 i'm also a part of web team of Entrepreneur Cell of my college.
 <!--
 - 👯 I’m looking to collaborate on []()
@@ -24,11 +26,15 @@
 
 - 💬 Ask me about **5**
 -->
+
+
 - ✉️ Reach out to me at **heysanskar0.0@gmail.com**
 <!--
 - 📄 Know about my experiences [9](9)
 -->
-- 😁 Fun fact : **I love Anime and Cats** <img src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="30px" />
+
+- 😁 Fun fact : **I love Anime and Cats**
+
 
 ***
 
@@ -151,7 +157,10 @@ Contribution Graph
 
 Cat gifs
 1 - https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif
-
+2- Calm cat https://media.giphy.com/media/jZ1eCryPWmejUj1asK/giphy.gif
+3- Animated calm cat https://media.giphy.com/media/QDGq4em0JiwGnRPxpi/giphy.gif
+4- Happy dance cat https://media.giphy.com/media/Fqe2mXpM9FRle/giphy.gif
+5- Sleepy kitty https://media.giphy.com/media/l0MYtNH6ZJPrlcOic/giphy.gif
 -->
 
 
@@ -161,4 +170,4 @@ Cat gifs
 * https://github.com/anuraghazra/github-readme-stats - for readme stats
 
 -->
-<h3> My Pinned Repositories </h3>
+<h3> My Pinned Repositories <img src="https://media.giphy.com/media/ic6zcBFAO2OcTH7D9O/giphy.gif" width="30px" /></h3> 
