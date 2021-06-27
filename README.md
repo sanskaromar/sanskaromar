@@ -4,7 +4,7 @@
 <h3 align="center">A passionate student developer from India</h3>
 
 <!-- typing svg -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&height=69&font=Comfortaa&color=20C20E&lines=Namaste+🙏;Check+out+my+Pinned+Repositories;Connect+with+me+for+Collaboration;Ask+me+about+anything,+I+am+happy+to+help;I+believe+in+cat+supremacy+:);)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&height=69&font=Comfortaa&color=20C20E&lines=Namaste+🙏;Check+out+my+Pinned+Repositories;Connect+with+me+for+Collaboration;Ask+me+about+anything,+I+am+happy+to+help;I+believe+in+cat+supremacy+:+\);)
 
 <!-- visitor count 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> </p>
