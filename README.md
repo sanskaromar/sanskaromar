@@ -47,6 +47,7 @@
 <a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanskaromar_" height="30" width="40" /></a> 
 <a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanskar.omar.7" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanskar_omar" height="30" width="40" /></a>
+<a href="https://leetcode.com/sanskar_omar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sanskar_omar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanskar_omar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_omar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanskar_omar" height="30" width="40" /></a>
