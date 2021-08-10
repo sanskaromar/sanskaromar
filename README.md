@@ -43,15 +43,17 @@
 <h3 align="center">My Social Profiles :</h3>
 <div align="center" width="560px>
                
-<a href="https://www.linkedin.com/in/sanskaromar-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sanskaromar-/" height="30" width="40" /></a> 
-<a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanskaromar_" height="30" width="40" /></a> 
-<a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanskar.omar.7" height="30" width="40" /></a>
-<a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanskar_omar" height="30" width="40" /></a>
-<a href="https://leetcode.com/sanskar_omar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sanskar_omar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanskar_omar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_omar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanskar_omar" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sanskaromar7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sanskaromar7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanskaromar-/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/sanskaromar-/" height="30" width="30" /></a> 
+<a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="sanskaromar_" height="30" width="30" /></a> 
+<a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="sanskar.omar.7" height="30" width="30" /></a>
+<a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sanskar_omar" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/sanskaromar7/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="sanskaromar7" height="30" width="30" /></a>
+
+<a href="https://leetcode.com/sanskar_omar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sanskar_omar" height="30" width="30" /></a>
+<a href="https://codeforces.com/profile/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanskar_omar" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_omar" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanskar_omar" height="30" width="30" /></a>
+
 
 </div>
 
@@ -69,7 +71,8 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>                                                                                                                                                    
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="unity" width="40" height="40"/></a>
 
                                                                                                                                                       
 <!-- tools/language addition format
