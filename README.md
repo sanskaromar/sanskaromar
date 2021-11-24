@@ -11,29 +11,25 @@
 -->
 <!-- intro/ about -->
 - 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
+- 🧑‍🎓 i'm also a part of web team of Entrepreneur Cell of my college.
 <img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100px" />
 
-- 🧑‍🎓 i'm also a part of web team of Entrepreneur Cell of my college.
+- 👨‍💻 All of my projects are available [here](https://sanskaromar.github.io/MyProjects/)
 <!--
 - 👯 I’m looking to collaborate on []()
 
 - 🤝 I’m looking for help with [3](a3)
  -->
 <!--
-- 👨‍💻 All of my projects are available at [7](7)
-
 - 📝 I regularly write articles on [8](8)
 
 - 💬 Ask me about **5**
 -->
-
-
 - ✉️ Reach out to me at **heysanskar0.0@gmail.com**
+- 😁 Fun fact : **I love Anime and Cats**
 <!--
 - 📄 Know about my experiences [9](9)
 -->
-
-- 😁 Fun fact : **I love Anime and Cats**
 
 
 ***
@@ -178,4 +174,7 @@ Cat gifs
 * https://github.com/anuraghazra/github-readme-stats - for readme stats
 
 -->
-<h3> My Pinned Repositories <img src="https://media.giphy.com/media/ic6zcBFAO2OcTH7D9O/giphy.gif" width="30px" /></h3> 
+<h3 align="right"><a href="https://sanskaromar.github.io/MyProjects/" target="_blank"> My Projects ↗️ </a></h3>
+<h3 align="right"> My Pinned Repositories ⬇️ </h3> 
+
+<!-- <img src="https://media.giphy.com/media/ic6zcBFAO2OcTH7D9O/giphy.gif" width="30px" /> -->
