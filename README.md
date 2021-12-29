@@ -174,7 +174,7 @@ Cat gifs
 * https://github.com/anuraghazra/github-readme-stats - for readme stats
 
 -->
-<h3 align="right"><a href="https://sanskaromar.github.io/MyProjects/" target="_blank"> My Projects ↗️ </a></h3>
+<h1 align="right"><a href="https://sanskaromar.github.io/MyProjects/" target="_blank"> My Projects ↗️ </a></h1>
 <h3 align="right"> My Pinned Repositories ⬇️ </h3> 
 
 <!-- <img src="https://media.giphy.com/media/ic6zcBFAO2OcTH7D9O/giphy.gif" width="30px" /> -->
