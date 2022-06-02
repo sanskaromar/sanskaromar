@@ -1,6 +1,6 @@
 <!-- title -->
 <img align="right" src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> 
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Sanskar!</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Sanskar!</h1>
 <h3 align="center">A passionate student developer from India</h3>
 
 <!-- typing svg -->
@@ -12,7 +12,7 @@
 <!-- intro/ about -->
 - 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
 - 🧑‍🎓 i'm also a part of web team of Entrepreneur Cell of my college.
-<img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100px" />
+<img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
 
 - 👨‍💻 All of my projects are available [here](https://sanskaromar.github.io/MyProjects/)
 <!--
@@ -50,7 +50,7 @@
 <a href="https://leetcode.com/sanskar_omar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sanskar_omar" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanskar_omar" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_omar" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanskar_omar" height="30" width="30" /></a>
+<!-- <a href="https://www.hackerrank.com/sanskar_omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanskar_omar" height="30" width="30" /></a> -->
 
 
 </div>
