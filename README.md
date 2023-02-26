@@ -84,7 +84,7 @@
 
 <!-- language stats
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskaromar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&count_private=true" alt="sanskaromar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskaromar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&count_private=true&langs_count=10" alt="sanskaromar" />
 </div>
 -->
 
