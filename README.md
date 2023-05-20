@@ -11,7 +11,7 @@
 -->
 <!-- intro/ about -->
 - 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
-- Check out my portfolio at [sanskar.rocks](https://sanskar.rocks/)
+- Check out my portfolio at [sanskar.rocks](https://portfolio.sanskar.rocks/)
 <img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
 
 - 👨‍💻 All of my projects are available [here](https://sanskaromar.github.io/MyProjects/)
