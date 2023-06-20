@@ -11,6 +11,7 @@
 -->
 <!-- intro/ about -->
 - 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
+- 🏢 I'm currently a SWE Intern at VISA.
 - Check out my portfolio at [portfolio.sanskar.rocks](https://portfolio.sanskar.rocks/)
 <img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
 
