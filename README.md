@@ -12,7 +12,7 @@
 <!-- intro/ about -->
 - 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
 - 🏢 I'm currently a SWE Intern at VISA.
-- Check out my portfolio at [portfolio.sanskar.rocks](https://portfolio.sanskar.rocks/)
+- Check out my portfolio at [https://sanskaromar.github.io/me/](https://sanskaromar.github.io/me/)
 <img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
 
 - 👨‍💻 All of my projects are available [here](https://sanskaromar.github.io/MyProjects/)
