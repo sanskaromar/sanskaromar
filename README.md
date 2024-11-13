@@ -9,9 +9,10 @@
 <!-- visitor count 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> </p>
 -->
+<h2> NOTE: I'm actively looking for work. Please reach out if you've relevant job openings.</h2>
 <!-- intro/ about -->
-- 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
-- 🏢 I'm currently a SWE Intern at VISA.
+- 🏫 I’ve completed my B.Tech in **Computer Science & Engineering** from MNNIT Allahabad in June 2024.
+- 🏢 I'm currently a Software Engineer at VISA.
 - Check out my portfolio at [https://sanskaromar.github.io/me/](https://sanskaromar.github.io/me/)
 <img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
 
