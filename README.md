@@ -1,7 +1,7 @@
 <!-- title -->
 <img align="right" src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Sanskar!</h1>
-<h3 align="center">A passionate student developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <!-- typing svg -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&height=69&font=Comfortaa&color=20C20E&lines=Namaste+🙏;Check+out+my+Pinned+Repositories;Connect+with+me+for+Collaboration;Ask+me+about+anything,+I+am+happy+to+help;I+believe+in+cat+supremacy+:+\);)
@@ -43,11 +43,12 @@
 <div align="center" width="560px>
                
 <a href="https://www.linkedin.com/in/sanskaromar-/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/sanskaromar-/" height="30" width="30" /></a> 
-<a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="sanskaromar_" height="30" width="30" /></a> 
-<a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="sanskar.omar.7" height="30" width="30" /></a>
-<a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sanskar_omar" height="30" width="30" /></a>
-<a href="https://gitlab.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="sanskar_omar" height="30" width="30" /></a>
+<a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="sanskaromar_" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/sanskaromar7/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="sanskaromar7" height="30" width="30" /></a>
+<!-- <a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="sanskar.omar.7" height="30" width="30" /></a>
+<a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sanskar_omar" height="30" width="30" /></a>
+<a href="https://gitlab.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="sanskar_omar" height="30" width="30" /></a> -->
+
 
 
 
