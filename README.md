@@ -44,6 +44,7 @@
 |Project|Tech Stack|Description|Link|
 |:-|:-:|-|:-:|
 |||||
+|[Tensor Fusion based Multi-modal Transformer-model for Depression Detection]()|Python, Transformer Models, Tensorflow| <ul><li>Developed pipeline for extracting facial landmark features and low-level descriptors (LLDs) from videos to generate visual and acoustic encodings for modeling.</li><li>Proposed a novel transformer architecture incorporating self-attention for independent feature extraction, cross-attention for multimodal fusion, and tensor fusion layer to model semantically distinct subregions capturing unimodal and bimodal dynamics.</li><li>Attained an F1-score of 67.02% - an improvement over the SOTA model utilizing a robust model architecture.</li></ul>|Paper under Review|
 |[Frontline Connect]()|Android(Kotlin), Firebase, React, Render, Netlify, Node JS, |A geofencing location-based attendance management system leveraging biometric authentication and real-time tracking to streamline frontline duty personnel (such as policemen, health workers and volunteers) management at [Prayag Kumbh Mela](https://en.wikipedia.org/wiki/Prayag_Kumbh_Mela) built using Android (Kotlin), React.js, Firebase, and Node.js to replace traditional manual error-prone tracking methods.|B.Tech Major project so code/report not public|
 |[Realtime Posture Detection and Alert System for Desk Workers using Wearable devices]() | Python, Tensorflow-lite, Raspberry Pi 4B, Java, Android,  |Developed an integrated posture monitoring system that combines computer vision-based real-time posture detection with a mobile app interface for users and cloud storage, implemented on a low compute embedded device with accurate posture analysis (accuracy score ~0.92 and realtime alerts, user feedback, leveraging deep learning for precise posture correction.| B.Tech Major project so code/report not public|
 |[Avishkar 2k22]()|PhasorJS, ReactJs, NodeJs, PlanetScale, SQL| A website for annual tech fest of MNNIT Allahabad. A 2D top-down RPG with the campus as the map and quizzes, registration management, and leaderboard|[site](https://avishkar.mnnit.ac.in/) [code](https://github.com/DuP-491/Avishkar)|
@@ -61,6 +62,7 @@
 |[Calculator with quotes](https://calculator-with-quotes.netlify.app/)|React|A simple calculator and quote display app|[here](https://github.com/sanskaromar/calculator-with-quotes)|
 |[Country App](https://country-app-nextjs.netlify.app/)|React|Display data from rest country api|[here](https://gitlab.com/sanskar_omar/country-app-with-next-js)|
 |[Mood Detection and Song Recommendation](https://github.com/sanskaromar/mood-detection-and-song-recommendation)|Python, ML, DL| It does what the name suggests|[here](https://github.com/sanskaromar/mood-detection-and-song-recommendation)|
+
 
 
 
