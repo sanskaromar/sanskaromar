@@ -35,24 +35,6 @@
 -->
 
 
-***
-
-<!-- Contact me -->
-
-<h3 align="center">My Social Profiles :</h3>
-<div align="center" width="560px>
-               
-<a href="https://www.linkedin.com/in/sanskaromar-/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/sanskaromar-/" height="30" width="30" /></a> 
-<a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="sanskaromar_" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/sanskaromar7/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="sanskaromar7" height="30" width="30" /></a>
-<!-- <a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="sanskar.omar.7" height="30" width="30" /></a>
-<a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sanskar_omar" height="30" width="30" /></a>
-<a href="https://gitlab.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="sanskar_omar" height="30" width="30" /></a> -->
-
-
-
-
-</div>
 
 ***
 
@@ -124,12 +106,12 @@
 -->
 
 <!-- profile stats -->
-
+<!-- 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanskaromar&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="My Profile Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaromar&hide_border=false&theme=tokyonight" alt="My Commit Stats" />
- 
+ profile stats -->
                                                                                                                                                   
   <!-- format for custum parameter with gradiant
 theme 1: pink
@@ -139,10 +121,9 @@ theme 2: black & purple
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskaromar&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sanskar Omar - Github Stats">
 theme 3:
 ![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs&show_icons=true&title_color=6655CF1&text_color=45A29E&icon_color=665CF1&bg_color=45,0B0C10,1F2833)
--->
 
 </div>
-
+-->
 <!-- 
 #### What am i working on:
 I'm just a beginner here exploring various technologies and getting started with open source. Currently i am focusing on Competivie Programming with C++ and python for developement.<br> 
@@ -215,6 +196,27 @@ Cat gifs
 
 <!-- <img src="https://media.giphy.com/media/ic6zcBFAO2OcTH7D9O/giphy.gif" width="30px" /> -->
 
+
+
+
+***
+
+<!-- Contact me -->
+
+<h3 align="center">My Social Profiles :</h3>
+<div align="center" width="560px>
+               
+<a href="https://www.linkedin.com/in/sanskaromar-/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/sanskaromar-/" height="30" width="30" /></a> 
+<a href="https://twitter.com/sanskaromar_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="sanskaromar_" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/sanskaromar7/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="sanskaromar7" height="30" width="30" /></a>
+<!-- <a href="https://fb.com/sanskar.omar.7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="sanskar.omar.7" height="30" width="30" /></a>
+<a href="https://instagram.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sanskar_omar" height="30" width="30" /></a>
+<a href="https://gitlab.com/sanskar_omar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="sanskar_omar" height="30" width="30" /></a> -->
+
+
+
+
+</div>
 
 
 
