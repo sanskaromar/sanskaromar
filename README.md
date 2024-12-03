@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **5**
 -->
-- ✉️ Reach out to me at **heysanskar0.0@gmail.com**
+- ✉️ Reach out to me at **hey[My first Name]0[dot]0[at]gmail[dot]com**
 - 😁 Fun fact : **I love Anime and Cats**
 <!--
 - 📄 Know about my experiences [9](9)
